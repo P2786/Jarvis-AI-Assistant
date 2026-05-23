@@ -137,7 +137,9 @@ Smart Memory System
 Pramit Savaliya
 
 # GitHub:
-```md https://github.com/P2786 ```
+```md 
+https://github.com/P2786
+```
 
 📜 License
 

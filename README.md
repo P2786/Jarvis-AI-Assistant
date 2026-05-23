@@ -26,8 +26,8 @@ Jarvis can perform voice commands, open applications, automate tasks, interact w
 
 ![Jarvis UI](image.png)
 
+# 🛠️ Technologies Used
 ```md
-🛠️ Technologies Used
 Python
 PyQt5 / PyQt6
 SpeechRecognition

@@ -56,13 +56,19 @@ Jarvis-AI-Assistant/
 # 🚀 Installation
 
 1️⃣ Clone Repository
-```md git clone https://github.com/P2786/Jarvis-AI-Assistant.git ```
+```md 
+git clone https://github.com/P2786/Jarvis-AI-Assistant.git
+ ```
 
 2️⃣ Open Project Folder
-```md cd Jarvis-AI-Assistant ```
+```md 
+cd Jarvis-AI-Assistant
+```
 
 3️⃣ Create Virtual Environment
-```md python -m venv venv ```
+```md 
+python -m venv venv
+```
 
 Activate Environment:
 
@@ -72,10 +78,14 @@ Linux / Mac
 source venv/bin/activate
 
 4️⃣ Install Requirements
-```md pip install -r requirements.txt ```
+```md 
+pip install -r requirements.txt
+```
 
 ▶️ Run Project
-```md python main.py ```
+```md 
+python main.py
+```
 
 # 🔑 API Configuration
 

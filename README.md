@@ -24,11 +24,9 @@ Jarvis can perform voice commands, open applications, automate tasks, interact w
 
 # 📸 Screenshots
 
-Add your screenshots here.
-
-```md
 ![Jarvis UI](image.png)
 
+```md
 🛠️ Technologies Used
 Python
 PyQt5 / PyQt6
@@ -59,8 +57,10 @@ Jarvis-AI-Assistant/
 
 1️⃣ Clone Repository
 ```md git clone https://github.com/P2786/Jarvis-AI-Assistant.git ```
+
 2️⃣ Open Project Folder
 ```md cd Jarvis-AI-Assistant ```
+
 3️⃣ Create Virtual Environment
 ```md python -m venv venv ```
 
@@ -73,6 +73,7 @@ source venv/bin/activate
 
 4️⃣ Install Requirements
 ```md pip install -r requirements.txt ```
+
 ▶️ Run Project
 ```md python main.py ```
 
